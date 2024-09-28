@@ -49,9 +49,5 @@ def click():
 boom_chek.clicked.connect(click)
 
 
-
-
-
-
 main_window.show()
 app.exec()
